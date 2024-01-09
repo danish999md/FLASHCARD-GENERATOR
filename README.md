@@ -78,7 +78,7 @@ Flashcard Generator is build using the following technologies:
 
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to us at [Gmail].(https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLPhhCThjSQBxqqKCTksFHbgmPZGmrTXlskrtrXBgHxRqbmdRdzJJlNBtvTWsTLmjdVLbb)
+If you have any questions or suggestions, feel free to reach out to us at [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLPhhCThjSQBxqqKCTksFHbgmPZGmrTXlskrtrXBgHxRqbmdRdzJJlNBtvTWsTLmjdVLbb).
 
 ## Acknowledgment
 We'd like to thank the contributors to this project for their valuable contributions.
